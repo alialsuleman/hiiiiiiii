@@ -4,7 +4,7 @@ const app = express();
 
 
 app.use('/', (req, res) => {
-    res.send("هاتو فكرة للمشروعععععععععععععععععع!!!!!!!!!!!!");
+    res.send("wait for new feature *_*");
 })
 
 
